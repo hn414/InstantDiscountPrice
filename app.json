@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "InstantDiscountPrice",
-    "slug": "InstantDiscountPrice",
+    "slug": "instantdiscountprice-hn-719414",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/priceIcon.png",
@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/hn414/InstantDiscountPrice"
   }
 }
